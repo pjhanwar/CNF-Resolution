@@ -13,10 +13,8 @@ Resolution is a complete and sound inference procedure because it works on CNF w
 
 # Steps involved:
 
-The overview of the whole process is as follows:
-
-One query is picked at a time, it is negated and added to Knowledge base
-
+The overview of the whole process is as follows:<br>
+One query is picked at a time, it is negated and added to Knowledge base<br>
 Resolution inference is applied using the method of Set of Sets to prove the query by inferencing a contradiction.
 
 # How to execute: 
