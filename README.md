@@ -7,7 +7,7 @@ Resolution is a method of inference leading to a refutation theorem-proving tech
 
 In other words, iteratively applying the resolution rule along with unification in a suitable way allows for inferencing whether a CNF statement is satisfiable or unsatisfiable.
 
-Attempting to prove a satisfiable FOL statement as unsatisfiable may result in a nonterminating computation; this problem doesn't occur in propositional logic. Resolution works on statemets in Conjunctive Normal Form(CNF) and hence FOL statements are first converted to CNF.
+Attempting to prove a satisfiable FOL statement as unsatisfiable may result in a nonterminating computation; this problem doesn't occur in propositional logic. Resolution works on statemets in Conjunctive Normal Form(CNF).
 
 Resolution is a complete and sound inference procedure because it works on CNF which is universal.
 
